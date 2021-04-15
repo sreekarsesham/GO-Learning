@@ -1,0 +1,32 @@
+###############################################
+## GO example programs(practice)
+################################################
+
+############################
+## Introduction and main
+#############################
+
+1)Why GO ? -- https://stackoverflow.blog/2020/11/02/go-golang-learn-fast-programming-languages/
+
+2)Hello world -- https://play.golang.org/p/KPKf7rO7yfW
+
+##############################
+## variables and declarations
+###############################
+
+3) short declaration -- https://play.golang.org/p/XCJWpmAbEzq
+
+4) var keyword declaration -- https://play.golang.org/p/hThG6DCL4ju
+
+#####################################
+##	Data Types
+#####################################
+
+5) basic datatypes and its declaration -- https://play.golang.org/p/ikQh7_32sQe
+
+#####################################
+##	Creating our own Types
+#####################################
+
+6) own type example -- https://play.golang.org/p/DIuOi0oIFf9
+		
