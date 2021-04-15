@@ -18,9 +18,9 @@
 
 4) var keyword declaration -- https://play.golang.org/p/hThG6DCL4ju
 
-#####################################
+#######################################
 ##	Data Types
-#####################################
+#######################################
 
 5) basic datatypes and its declaration -- https://play.golang.org/p/ikQh7_32sQe
 
