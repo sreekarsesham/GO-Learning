@@ -42,8 +42,5 @@ func hashIt(userPwd []byte) string{
 	
 }
 
-
-
-
 //references : https://medium.com/@jcox250/password-hash-salt-using-golang-b041dc94cb72
 //			   https://pkg.go.dev/golang.org/x/crypto/bcrypt#Cost
