@@ -29,4 +29,23 @@
 #####################################
 
 6) own type example -- https://play.golang.org/p/DIuOi0oIFf9
+
+#####################################
+##	Bool Type
+#####################################
+
+7) https://play.golang.org/p/FNZAQLJ3op4
+
+#####################################
+##	Loops
+#####################################
+8) https://play.golang.org/p/ktkV5788WSq
+
+#####################################
+##	Strucs
+#####################################
+--> basic structs
+9) https://play.golang.org/p/TpLExNNoVKy
+--> embedded structs
+10)
 		
